@@ -1,7 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Testing that we can change the content and push directly to GitHub.
+
 
 Things you may want to cover:
 
